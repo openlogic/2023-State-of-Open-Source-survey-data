@@ -3,7 +3,7 @@
 ![2023-State-of-OSS-image](https://user-images.githubusercontent.com/5347097/216159262-bc12039d-b9d4-4f8c-9867-0d886058e73e.png)
 
 
-This repository contains publicly available data sets that can be used for research, analysis, or any other purpose.
+This repository contains publicly available dataset that can be used for research, analysis, or any other purpose.
 
 
 ## Original Source for License Attribution
@@ -13,8 +13,8 @@ OpenLogic by Perforce and The Open Source Initiative (OSI)
 
 ## Data Sets
 
-- 2023 The State of Open Source Survey-Raw Data.csv: All records of responses to the state of open source survey, csv file
-- 2023 The State of Open Source Survey-Raw Data.xlsx: All records of responses to the state of open source survey, Excel file
+- 2023 The State of Open Source Survey-Raw Data.csv: All anonymized records of responses to the state of open source survey, csv file
+- 2023 The State of Open Source Survey-Raw Data.xlsx: All anonymized records of responses to the state of open source survey, Excel file
 
 
 ## Usage
