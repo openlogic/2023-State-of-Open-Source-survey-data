@@ -1,5 +1,7 @@
 # 2023-State-of-Open-Source-survey-data
 # Public Data Repository
+![2023-State-of-OSS-image](https://user-images.githubusercontent.com/5347097/216159262-bc12039d-b9d4-4f8c-9867-0d886058e73e.png)
+
 
 This repository contains publicly available data sets that can be used for research, analysis, or any other purpose.
 
