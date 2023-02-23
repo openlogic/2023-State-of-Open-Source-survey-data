@@ -15,7 +15,6 @@ This 2023-State-of-Open-Source-survey-data.csv file is licensed under the Creati
 ## Data Sets
 
 - 2023 The State of Open Source Survey-Raw Data.csv: All anonymized records of responses to the state of open source survey, csv file
-- 2023 The State of Open Source Survey-Raw Data.xlsx: All anonymized records of responses to the state of open source survey, Excel file
 
 
 ## Usage
