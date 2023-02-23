@@ -8,7 +8,8 @@ This repository contains publicly available dataset that can be used for researc
 
 ## Original Source for License Attribution
 
-OpenLogic by Perforce and The Open Source Initiative (OSI)
+Perforce Software
+This 2023-State-of-Open-Source-survey-data.csv file is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0/legalcode).  Copyright © 2022, Perforce Software, Inc.
 
 
 ## Data Sets
@@ -19,7 +20,9 @@ OpenLogic by Perforce and The Open Source Initiative (OSI)
 
 ## Usage
 
-All data sets in this repository are available under the [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/). This means that you are free to use, share, and adapt the data for any purpose, as long as you give appropriate credit to the original source.
+This 2023-State-of-Open-Source-survey-data.csv file is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0/legalcode).  Copyright © 2022, Perforce Software, Inc.
+
+This means that you are free to use, share, and adapt the data for any purpose, as long as you give appropriate credit to the original source.
 
 To download a data set, simply click on the link for the data set you want, and the file will be downloaded to your computer.
 
