@@ -33,4 +33,4 @@ If you have a data set that you would like to add to this repository, please sub
 
 ## Contact
 
-If you have any questions or feedback about the data sets in this repository, please contact javierperez@perforce.com
+If you have any questions or feedback about the data sets in this repository open an issue in this repo
